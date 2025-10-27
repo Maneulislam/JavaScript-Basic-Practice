@@ -8,11 +8,13 @@ Ticket fare Calculator
 */
 
 
+
 let age  = 60;
 
 let price = 800;
 let discount;
 let payTaka;
+
 
 if(age < 10){
     console.log("Free");
