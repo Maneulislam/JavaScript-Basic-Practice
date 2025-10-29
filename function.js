@@ -91,3 +91,20 @@ function odd_even(number){
     }
 } 
 odd_even(312);
+
+
+
+
+
+
+
+
+
+
+
+
+
+function getMenu() {
+ console.log("Burger, Pizza, Pasta");
+}
+getMenu();
