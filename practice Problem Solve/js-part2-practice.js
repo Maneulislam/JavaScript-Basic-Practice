@@ -32,6 +32,13 @@ function smallName(heights2) {
 }
 console.log(smallName(heights2));
 
+const smallName=(heigths)=>{
+
+    
+
+
+}
+
 
 // Task-3:
 // Your task is to calculate the total budget required to buy electronics:
